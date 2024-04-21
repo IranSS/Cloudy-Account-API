@@ -23,7 +23,8 @@ Para começar a utilizar a CloudyAccountAPI, siga estas etapas:
 
 ### Hospedagem
 
-A CloudyAccountAPI está hospedada no [Railway](https://railway.app).
+A CloudyAccountAPI está hospedada no [Railway](https://railway.app).                                                                                                                                                                                 
+Link: [minha aplicação no Railway](https://cloudy-account-api-production.up.railway.app/swagger-ui/index.html#/)
 
 ### Contribuições
 
@@ -51,7 +52,8 @@ To start using CloudyAccountAPI, follow these steps:
 
 ### Hosting
 
-CloudyAccountAPI is hosted on [Railway](https://railway.app).
+CloudyAccountAPI is hosted on [Railway](https://railway.app).  
+Link: [my application on Railway](https://cloudy-account-api-production.up.railway.app/swagger-ui/index.html#/)
 
 ### Contributing
 
